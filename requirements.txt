@@ -1,0 +1,7 @@
+Pillow
+opencv-python
+psutil
+colorama
+pywin32
+scipy
+pygame
